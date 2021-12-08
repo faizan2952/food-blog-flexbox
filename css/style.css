@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-size: 16px;
+  scroll-behavior: smooth; }
+
+body {
+  font-family: "Raleway", sans-serif;
+  line-height: 1.5;
+  letter-spacing: 0.3px;
+  max-width: 1200px;
+  margin: auto; }
+
+.text-sm {
+  font-size: 12.8px; }
+
+.text-lg {
+  font-size: 22.4px; }
+
+.text-xl {
+  font-size: 28.8px; }
